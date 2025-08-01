@@ -1,0 +1,8 @@
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/OrderManagementApplication.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/config/AwsConfig.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/repository/OrderRepository.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/service/OrderService.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/repository/DynamoDBOrderRepository.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/controller/OrderController.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/service/OrderServiceImpl.java
+/Users/chetanyadav/Documents/- Real-Time Order Management System/backend/src/main/java/com/ordermanagement/model/Order.java
